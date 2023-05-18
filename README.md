@@ -1,6 +1,6 @@
 # TALENT HUNTING WITH MACHINE LEARNING ALGORITHMS
 
-![image](https://github.com/baranylcn/ttt/assets/98966968/9abf3838-f335-499c-8231-c537d574c95f)
+![image](https://github.com/baranylcn/Scotium-ML-Prediction/assets/98966968/fd6e2c95-1bb3-4e42-942a-50ed57fd96c4)
 
 ## Bussines Problem
 Predicting which class (average, highlighted) player is according to the points given to the characteristics of the players.
